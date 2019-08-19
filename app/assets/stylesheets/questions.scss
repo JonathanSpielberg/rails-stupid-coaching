@@ -1,0 +1,39 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.submit {
+  border-radius: 2px;
+  background-color: #337ab7;
+  color: white;
+  letter-spacing: 3px;
+}
+
+.form {
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+ display: flex;
+ justify-content: center;
+}
+
+.question {
+  display: block;
+  justify-content: center !important;
+  text-align: center !important;
+
+}
+
+.answer {
+  display: block;
+  justify-content: center;
+  text-align: center;
+}
+
+.link {
+  text-align: center;
+  background-color: #337ab7;
+  color: white;
+  justify-content: center;
+}
